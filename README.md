@@ -29,7 +29,7 @@ Users can select which index to visualize, view historical data, and read in-dep
 
 3.  **Install the required libraries:**
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirement.txt
     ```
     *Note: Ensure you create a `requirements.txt` file containing the necessary libraries such as `streamlit`, `yfinance`, `pandas`, and `matplotlib`.*
 
