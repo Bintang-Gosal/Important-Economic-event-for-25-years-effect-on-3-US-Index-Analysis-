@@ -59,7 +59,7 @@ plt.tight_layout()
 
 st.header("Data Analysis  (Bintang Fridel Putra Gosal)")
 
-st.title("Relation Beetween Important Economic Event For The Past 25 Years to Top 3 US Index and the Votality Index")
+st.title("Relation Beetween Important Economic Event For The Past 25 Years to Top 3 US Index and the Volatility Index")
 
 st.pyplot(fig)
 
