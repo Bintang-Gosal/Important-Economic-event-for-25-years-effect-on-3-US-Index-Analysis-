@@ -39,4 +39,4 @@ Users can select which index to visualize, view historical data, and read in-dep
     ```
     The application will automatically open in your web browser.
 
-## Project Structure
+
